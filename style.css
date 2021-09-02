@@ -1,0 +1,310 @@
+@media (min-device-width: 320px) and (max-device-width: 480px) {
+  * {
+    margin: 0px;
+    padding: 0px;
+  }
+  .grey {
+    height: 1100px;
+    width: 100%;
+    background-color: #e5e5e5;
+    box-sizing: border-box;
+    padding-top: 100px;
+  }
+  .circle {
+    color: #8133bb;
+    font-size: 100px;
+  }
+  .friend {
+    height: 650px;
+    width: 650px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -250px;
+  }
+  .blue {
+    height: 1800px;
+    width: 100%;
+    background-color: #8133bb;
+    box-sizing: border-box;
+    padding-top: 100px;
+    margin-top: -100px;
+  }
+  .white {
+    height: 1500px;
+    width: 80%;
+    background-color: white;
+    position: absolute;
+    left: 60px;
+    font-size: 50px;
+    padding: 40px;
+  }
+  .white p {
+    margin-top: 80px;
+    font-size: 60px;
+  }
+  .white input {
+    background-color: #8133bb;
+    color: white;
+    height: 100px;
+    width: 300px;
+    font-size: 50px;
+    padding: 10px;
+    margin-top: 100px;
+    border: none;
+    border-radius: 25px;
+  }
+  .white input:hover {
+    background-color: black;
+  }
+  .blue2 {
+    height: 700px;
+    width: 100%;
+    background-color: #8133bb;
+  }
+  .blue2 img {
+    height: 1000px;
+    width: 88%;
+    margin-left: 55px;
+    margin-top: 110px;
+    box-shadow: 20px 20px black;
+  }
+  .grey2 {
+    height: 5800px;
+    width: 100%;
+    background-color: lightgray;
+    box-sizing: border-box;
+    padding-top: 500px;
+  }
+  .box1 {
+    height: 18%;
+    width: 77%;
+    background-color: white;
+    margin-left: 55px;
+    margin-top: 100px;
+    font-size: 70px;
+    padding: 50px;
+    box-shadow: 20px 20px black;
+  }
+  .mam img {
+    width: 87%;
+    height: 1000px;
+    margin-left: 55px;
+    margin-top: 100px;
+    box-shadow: 20px 20px black;
+  }
+  .we {
+    font-size: 60px;
+    padding: 50px;
+    margin-top: 100px;
+  }
+  .we input {
+    background-color: #8133bb;
+    color: white;
+    height: 100px;
+    width: 300px;
+    font-size: 50px;
+    padding: 10px;
+    margin-top: 100px;
+    border: none;
+    border-radius: 25px;
+  }
+  .we input:hover {
+    background-color: black;
+  }
+  .perple {
+    height: 200%;
+    width: 100%;
+    background-color: #8133bb;
+    color: white;
+    font-size: 60px;
+    padding: 100px 0px;
+  }
+  .perple input {
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    border-radius: 30px;
+    background-color: #d7b2f3;
+    margin-top: 70px;
+    color: white;
+    border: none;
+  }
+  .red {
+    background-color: #e34475;
+    height: 200%;
+    width: 100%;
+    color: white;
+    font-size: 60px;
+    padding: 100px 0px;
+  }
+  .red input {
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+    border-radius: 30px;
+    background-color: #d7b2f3;
+    margin-top: 70px;
+    color: white;
+    border: none;
+  }
+  .capabilities {
+    height: 1000%;
+    width: 90%;
+    background-color: lightgray;
+    font-size: 60px;
+    padding: 50px;
+  }
+  .whitebox {
+    height: 200%;
+    width: 77%;
+    background-color: white;
+    color: black;
+    padding: 100px;
+    margin-top: 100px;
+  }
+  .orange {
+    height: 90%;
+    width: 100%;
+    background-color: #e34475;
+  }
+  .orange img {
+    width: 90%;
+    margin-left: 5%;
+    height: 110%;
+  }
+  .gray02 {
+    height: 100%;
+    width: 90%;
+    background-color: lightgray;
+    padding: 50px;
+  }
+  .gray02 input {
+    background-color: #8133bb;
+    color: white;
+    height: 100px;
+    width: 300px;
+    font-size: 50px;
+    padding: 10px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 25px;
+  }
+  .beautygirl {
+    height: 100%;
+    width: 100%;
+    background-color: #8133bb;
+    padding: 100px 0px;
+  }
+  .beautygirl02 {
+    background-color: white;
+    height: 50%;
+    width: 80%;
+    padding: 50px;
+    font-size: 50px;
+  }
+  .beautygirl02 img {
+    height: 70%;
+    width: 70%;
+    border-radius: 100%;
+    border: 5px solid #8133bb;
+  }
+  .gray3 {
+    height: 150em;
+    width: 100%;
+    color: black;
+    background-color: lightgray;
+  }
+  .circlered {
+    height: 600px;
+    width: 600px;
+    border-radius: 100%;
+    background-color: #e34475;
+    margin-left: 300px;
+  }
+  .bottle {
+    margin-left: -200px;
+    margin-top: 200px;
+    height: 100%;
+    width: 100%;
+  }
+  .blackgirl {
+    height: 100%;
+    width: 100%;
+    margin-top: -200px;
+  }
+  .blackbox {
+    height: 150%;
+    width: 110%;
+    background-color: white;
+    font-size: 50px;
+    margin-left: -220px;
+    padding: 80px;
+  }
+  .blackbox ul {
+    list-style: square;
+  }
+  .blackbox input {
+    height: 100px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    margin-top: 60px;
+  }
+  .back {
+    background-image: url(images/background.jpg);
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+  }
+  .form input {
+    height: 50px;
+    width: 50%;
+    background-color: white;
+    color: black;
+    font-size: 60px;
+    padding: 30px;
+    margin: 20px;
+  }
+  .form {
+    margin-top: 50px;
+  }
+  .form textarea {
+    background-color: white;
+    color: black;
+    font-size: 60px;
+    padding: 30px;
+    margin: 20px;
+  }
+  .form button {
+    font-size: 60px;
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+    background-color: #e34475;
+    color: white;
+    border-radius: 30px;
+    margin-top: 70px;
+  }
+  .form button:hover {
+    background-color: black;
+    border: none;
+  }
+  .icon {
+    font-size: 100px;
+    margin-top: 50px;
+  }
+  .footer {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: 45px;
+  }
+}
